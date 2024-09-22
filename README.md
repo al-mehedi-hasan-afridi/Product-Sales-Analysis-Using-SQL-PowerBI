@@ -19,7 +19,7 @@
 
 5. **Monthly Trends:**
    - Sales experienced a sharp increase from **July** onward, peaking in **November** at over **2.3M** before slightly declining in December.
-   - From January to May, actual sales fell short of the budgeted targets. However, in June, actual sales met the budgeted expectations. Starting from July, actual sales exceeded the budgeted targets, indicating a positive trend in performance.
+   - From January to May, actual sales **fell short** of the budgeted targets. However, in June, actual sales **met** the budgeted expectations. Starting from July, actual sales **exceeded** the budgeted targets, indicating a positive trend in performance.
    
 6. **Geographical Insights:**
    - Sales are concentrated in **Germany** and the **UK**, with a distribution map highlighting sales across these regions.
